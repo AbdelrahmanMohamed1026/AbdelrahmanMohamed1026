@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Graduate;Learning+every+day%2C+improving+every+line;Aspiring+AI+Engineer;Turning+data+into+decisions)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Graduate;Learning+every+day%2C+improving+every+line;Aspiring+AI+Engineer;Turning+data+into+decisions" alt="Typing SVG" /></a>
 </p> 
 
 # 💫 About Me:
